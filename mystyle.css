@@ -1,0 +1,63 @@
+
+.carouselExampleCaptions{}
+    object-fit:backdrop;
+}
+.head{
+    text-align: center;
+    color:blue;
+}
+.row {
+    padding: 25px;
+}
+
+.bannerText{
+    text-align: right;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:black;
+
+}
+.bannertitle{
+    font-size: 4rem;
+}
+.bannerDesc{
+    font-size: 2rem;
+}
+.card{
+    cursor: pointer;
+}
+.card:hover{
+    background-color: rgb(104, 173, 181);
+    border:2px solid rgb(169, 65, 112);
+
+}
+.bIcon{
+width:100%;
+text-align: center;
+font-size:40px;
+}
+.img-fluid:hover{
+    background-color: rgb(122, 157, 209);
+    border:2px solid rgb(185, 64, 118);
+}
+.card-img-top{
+    height: 50vh;
+}
+.card-body {
+    padding: 20px;
+}
+#contact{
+    background-color: rgb(168, 206, 206);
+
+}
+#internshi{
+    background-color: rgba(74, 69, 69, 0.393);
+}
+*{
+    font-size: medium;
+    font-weight: 200;
+    font-family: Verdana;
+    
+}
